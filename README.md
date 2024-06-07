@@ -1,4 +1,4 @@
-# mini_calculator
+# MiniCalculator
 This is a preview of a mini calculator that 
 I made for practising with Python and Tkinter 
 (a GUI library).
