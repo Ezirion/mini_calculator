@@ -1,5 +1,7 @@
 # MiniCalculator v0.5
 
+![image](https://github.com/Ezirion/mini_calculator/assets/147734603/21788845-fadf-46a7-8e7c-cc9be7266a96)
+
 This is a preview of a mini calculator that 
 I made for practising with Python and Tkinter 
 (a GUI library).
