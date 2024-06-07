@@ -1,4 +1,4 @@
-# MiniCalculator
+# MiniCalculator v0.5
 
 This is a preview of a mini calculator that 
 I made for practising with Python and Tkinter 
